@@ -1,0 +1,7 @@
+data/
+*.zip
+*.csv
+*.pth
+__pycache__/
+*/__pycache__/
+source/
